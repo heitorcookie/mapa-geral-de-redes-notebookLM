@@ -1,11 +1,11 @@
 # mapa-geral-de-redes-notebookLM
 Conceitualização de redes na TIC e processos envolvidos a partir de fontes digitais e uso guiado do NotebookLM.
 
-# Introdução e Objetivos
+## Introdução e Objetivos
 A ideia desse projeto foi basicamente criar um caderno temático para estudos utilizando a ferramenta de IA NotebookLM do Google, onde é possível organizar diferentes fontes selecionadas como banco de dados para o seu projeto e todas as respostas (que podem estar em vários formatos) vão ser baseadas nessas fontes, o que pode ajudar a reduzir alucinações e direcionar o assunto.
 O tema que eu escolhi foi redes, protocolos e arquitetura e o objetivo é introduzir e criar uma base sobre os processos e conceitos principais envolvidos na criação e configuração dessas redes.
 
-# Fontes Utilizadas
+## Fontes Utilizadas
 Tentei usar 4 fontes didáticas e referências técnicas do Google Acadêmico e 1 de um site de conceitulização para garantir uma base confiável.
 [aula7.pdf](https://github.com/user-attachments/files/29467371/aula7.pdf)
 
@@ -17,7 +17,7 @@ Tentei usar 4 fontes didáticas e referências técnicas do Google Acadêmico e 
 
 https://www.opservices.com.br/protocolos-de-rede/
 
-# Prompts
+## Prompts
 Enviei 3 prompts diferentes, um mais específico do que o outro, abordando diferentes camadas de redes.
 
 1. "Explique o funcionamento das redes de computadores diferenciando seus tipos e topologias, do mais simples ao mais avançado. Apresente em formato de tópicos de maneira acessível e detalhada."
@@ -39,7 +39,8 @@ Uma rede pode ser classificada por sua extensão, sendo a LAN (Local Area Networ
 Durante a troca de informações, diferentes camadas vão estar agindo com diferentes funções. Uma maneira de classificar elas é o Modelo OSI, que divide esse processo todo em 7 camadas: Aplicação, Apresentação, Sessão, Transporte, Rede, Enlace e Física. Para que essa comunicação aconteça, são usados os protocolos, que são meios com regras específicas de como esse transporte de informações ocorre. O IP é um protocolo que define o endereço de origem e o endereço de destino de cada pacote e esse processo é chamado de encapsulamento.
 
 Para um técnico fazer um diagnóstico da rede, ele normalmente vai pensar e conferir as camadas do encapsulamento seguindo a ordem inversa, do final ao começo, verificando desde a funcionabilidade de dispositivos físicos até a resposta dos softwares a partir do Prompt de Comando (CMD). Em redes profissionais, ele poderá veificar o protocolo de gerência SNMP.
-Termos importantes:
+
+## Termos importantes:
 
 Internet: maior rede de computadores do mundo, formada por diferentes redes menores, físicas e lógicas.
 
@@ -71,7 +72,7 @@ Switch: equipamento físico que decide para qual porta enviar um pacote.
 
 Firewall: filtra o tráfego de pacotes.
 
-Ideias de prompts:
+### Ideias de prompts:
 "Atue como um professor universitário experiente em Redes de Computadores e explique os fundamentos de redes de computadores.
 Responda seguindo essa estrutura:
 Conceito geral
