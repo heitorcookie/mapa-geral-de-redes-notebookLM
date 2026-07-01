@@ -3,10 +3,11 @@ Conceitualização de redes na TIC e processos envolvidos a partir de fontes dig
 
 ## Introdução e Objetivos
 A ideia desse projeto foi basicamente criar um caderno temático para estudos utilizando a ferramenta de IA NotebookLM do Google, onde é possível organizar diferentes fontes selecionadas como banco de dados para o seu projeto e todas as respostas (que podem estar em vários formatos) vão ser baseadas nessas fontes, o que pode ajudar a reduzir alucinações e direcionar o assunto.
-O tema que eu escolhi foi redes, protocolos e arquitetura e o objetivo é introduzir e criar uma base sobre os processos e conceitos principais envolvidos na criação e configuração dessas redes.
+O tema que eu escolhi foram as redes, protocolos e arquitetura e o objetivo é introduzir e criar uma base sobre os processos e conceitos principais envolvidos na criação e configuração dessas redes.
 
 ## Fontes Utilizadas
 Tentei usar 4 fontes didáticas e referências técnicas do Google Acadêmico e 1 de um site de conceitulização para garantir uma base confiável.
+
 [aula7.pdf](https://github.com/user-attachments/files/29467371/aula7.pdf)
 
 [v9n3art2.pdf](https://github.com/user-attachments/files/29467365/v9n3art2.pdf)
@@ -18,7 +19,7 @@ Tentei usar 4 fontes didáticas e referências técnicas do Google Acadêmico e 
 https://www.opservices.com.br/protocolos-de-rede/
 
 ## Prompts
-Enviei 3 prompts diferentes, um mais específico do que o outro, abordando diferentes camadas de redes.
+Enviei 3 prompts diferentes um mais específico do que o outro, abordando diferentes camadas de redes.
 
 1. "Explique o funcionamento das redes de computadores diferenciando seus tipos e topologias, do mais simples ao mais avançado. Apresente em formato de tópicos de maneira acessível e detalhada."
 A resposta gerada foi bem simples, abordando os tópicos de Escala, Forma de Conexão, Comutação, Organização em Camadas e Protocolos e Estrutura Avançada. Cada tópico usou de 2 a 4 subtópicos explicados em uma frase cada.
@@ -91,6 +92,6 @@ Em cada etapa descreva: quem envia, quem recebe, qual informação está sendo t
 Não pule nenhuma etapa importante."
 
 * Comentários:
-O NotebookLM é muito bom para entender o básico de alguns assuntos que você já tenha algumas referências que queira entender, como artigos e sites, mas para aprofundar na área ele dificilmente vai ajudar de verdade a entender diferentes casos de aplicação. Ele tem várias possibilidades de formatos de respostas, como podcasts, vídeos e mapas mentais o que ajuda muito a entender os fundamentos ou as principais ideias do assunto, o que é muito bom. Entretanto, para aprendizado aprofundado na área, é melhor acompanhar materiais mais robustos em teoria como livros e treinar a prática com exercícios reais. Como Inteligência Artificial, ajuda muito a entender referências específicas e as alucinações são bem menores, mas depois de eu testar os mesmos prompts nas ferramentas de IA Claude, Perplexity e o ChatGPT, parecia que as respostas obtidas no NotebookLM foram bem menores e simplificadas mesmo com materiais de teoria bem específicos em comparação com as outras.
+O NotebookLM é muito bom para entender o básico de alguns assuntos que você já tenha algumas referências que queira entender, como artigos e sites, mas para aprofundar na área ele dificilmente vai ajudar de verdade a entender diferentes casos de aplicação. Ele tem várias possibilidades de formatos de respostas, como podcasts, vídeos e mapas mentais o que ajuda bastante a entender os fundamentos ou as principais ideias do assunto, o que é muito bom. Entretanto para aprendizado aprofundado na área, é melhor acompanhar materiais mais robustos em teoria como livros e treinar a prática com exercícios reais. Como Inteligência Artificial, ajuda muito a entender referências específicas e as alucinações são bem menores, mas depois de eu testar os mesmos prompts nas ferramentas de IA Claude, Perplexity e o ChatGPT, parecia que as respostas obtidas no NotebookLM foram bem menores e simplificadas mesmo com materiais de teoria bem específicos em comparação com as outras.
 
 Link para acessar o caderno temático: https://notebooklm.google.com/notebook/0f01b63f-be6c-4b0d-8a90-e9a7801b787c
